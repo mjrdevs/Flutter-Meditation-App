@@ -18,3 +18,5 @@ A Meditation App UI template made using flutter and dart.
 
 For help getting started with Flutter, view the online
 [documentation](https://flutter.dev/).
+
+Forked from https://github.com/iamadeeb/Flutter-Meditation-App
